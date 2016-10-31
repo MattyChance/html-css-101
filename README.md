@@ -672,10 +672,10 @@ To add a full-section background to a div (using the `100vh` trick from above), 
 Use your own HTML and CSS, plus everything you learned to integrate the following three templates. Note that there are some effects you may not be able to achieve from the start. Remember to follow the recipe we gave you, and to go from most generic to most specific. Substitute placeholder images and text where necessary.
 
 ## Template 00
-![template 00](https://s14.postimg.org/42pn16osd/template_00.png)
+![template 00](https://s14.postimg.org/qenfuknwh/template_00.png)
 
 ## Template 01
-![template 01](https://s14.postimg.org/udkndecjh/template_01.png)
+![template 01](https://s14.postimg.org/qh7bherk1/template_01.png)
 
 ## Template 02
-![template 02](https://s14.postimg.org/4gqz0s8vx/template_02.png)
+![template 02](https://s14.postimg.org/xvwn9sdfl/template_02.png)
