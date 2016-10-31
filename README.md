@@ -666,3 +666,16 @@ Creating an image that looks like a thumbnail is easy. Here is some basic CSS to
 
 ### Full-section backgrounds
 To add a full-section background to a div (using the `100vh` trick from above), we can set a `background-image` on the element, and set the `background-size` property to `cover`. This means the background will stretch as much as needed to cover all the section.
+
+
+# Integration practice
+Use your own HTML and CSS, plus everything you learned to integrate the following three templates. Note that there are some effects you may not be able to achieve from the start. Remember to follow the recipe we gave you, and to go from most generic to most specific. Substitute placeholder images and text where necessary.
+
+## Template 00
+![template 00](https://s14.postimg.org/42pn16osd/template_00.png)
+
+## Template 01
+![template 01](https://s14.postimg.org/udkndecjh/template_01.png)
+
+## Template 02
+![template 02](https://s14.postimg.org/4gqz0s8vx/template_02.png)
