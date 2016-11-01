@@ -1,0 +1,173 @@
+html {
+	box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+h3 {
+	color: darkgrey;
+}
+
+p {
+	color: lightgrey;
+}
+
+
+header {
+	background-image: url("coffee-background.jpg");
+	background-size: cover;
+	color: white;
+	border-top: 5px solid #80ffbf;
+}
+
+.header-content {
+	padding: 10em;
+    color: white;
+}
+
+header ul {
+    display: flex;
+    padding: 0;
+}
+
+header ul li {
+	list-style-type: none;
+	padding: 1em;
+	background-color: grey;
+    border-radius: 50%;
+    height: 34px;
+    width: 34px;
+    text-align: center;
+    opacity: 0.70;
+    margin: 0.5em;
+}
+
+.part-two {
+	display: flex;
+}
+
+.part-three {
+	background-color: lightgrey;
+}
+
+footer {
+	width: 100%;
+	background-color: lightgrey;
+	color: darkgrey;
+}
+
+footer nav ul {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+    padding: 1%;
+}
+
+footer nav ul li {
+	padding: 1em;
+}
+
+.part-two {
+	margin-top: 1em;
+	text-align: center;
+	margin: 1.5%;
+}
+
+.part-two i {
+    display: flex;
+    justify-content: center;
+    align-items: center;	
+    background-color: #80ffbf;
+	color: white;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.part-two .features {
+	margin: 1em;
+}
+
+.part-three {
+	height: 40vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.part-three p {
+	color: darkgrey;
+}
+
+.part-three .notify {
+	width: 50%;
+	padding: 8%;
+}
+
+.part-three .video {
+	width: 50%;
+}
+
+
+.part-three button {
+	background-color: #80ffbf;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.part.three input {
+	border-radius: 4px;
+    height: 38px;
+}
+
+.part-four {
+	text-align: center;
+}
+.part-four .faces {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+    padding: 1%;
+
+}
+.part-four .faces li {
+	margin: 0.5em;
+}
+
+.part-four .social-icons {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+    padding: 1%;
+}
+
+.part-four .social-icon {
+	list-style-type: none;
+	padding: 1em;
+	background-color: lightgrey;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    text-align: center;
+    opacity: 0.70;
+    margin: 0.5em;
+}
