@@ -677,12 +677,14 @@ Use your own HTML and CSS, plus everything you learned to integrate the followin
 ## Template 01
 ![template 01](https://s14.postimg.org/qh7bherk1/template_01.png)
 
+## Template 02
+![template 02](https://s14.postimg.org/xvwn9sdfl/template_02.png)
 # Grid
 The CSS grid layout module excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives.
 
 Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements.
 The example below shows a three-column track grid with new rows created at a minimum of 100 pixels and a maximum of auto. Items have been placed onto the grid using line-based placement.
-### HTML
+```### HTML
 <div class="wrapper">
   <div class="one">One</div>
   <div class="two">Two</div>
@@ -723,10 +725,8 @@ The example below shows a three-column track grid with new rows created at a min
   grid-column: 3;
   grid-row: 4;
 }
-
-### Output
-
+```
 
 
-## Template 02
-![template 02](https://s14.postimg.org/xvwn9sdfl/template_02.png)
+
+
